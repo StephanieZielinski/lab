@@ -1,0 +1,41 @@
+<!DOCTYPEE html>
+<html>
+<head>
+  <link rel="stlye" href="protfolio.css" type="text/css"
+  <meta name="viewport" content="width=device-width"initial-scale=1>
+  <title>Protfolio</title>
+<h1>Protfolio Page</h1>
+</head>
+<body>
+  <div class=container>
+      <div class="box">title one</div>
+        <div img src="redrose.jpeg" alt="A beautiful Red Rose"></div>
+          <div a href="#"></div>
+      <div class="box">title two</div>
+        <div img src="fushiarose.jpeg" alt="A beautiful Fushia Rose"></div>
+          <div a href="#"></div>
+      <div class="box">title three</div>
+        <div img src="yellowrose.jpeg" alt="A beutiful Yellow Rose"></div>
+          <div a href="#"></div>
+      <div class="box"></div>
+        <div img src="bluerose.jpeg" alt="A beautiful Blue Rose"></div>
+          <div a href="#"></div>
+      <div class="box"></div>
+        <div img src="whiteandredrose.jpeg" alt="A beautiful White and Red Rose"></div>
+          <div a href="#"></div>
+      <div class="box"></div>
+        <div img src="orangerose.jpeg" alt="A beautiful Orange Rose"></div>
+          <div a href="#"></href>
+      <div class="box"></div>
+        <div img src="peachrose.jpeg" alt="A Beautiful Peach Rose"></div>
+          <div a href="#"></div>
+      <div class="box"></div>
+        <div img src"whiterose.jpeg" alt="A Beautiful White Rose"></div>
+          <div a href="#"></div>
+      <div class="box"></div>
+        <div img src="rainbowrose.jpeg" alt="A Unnatural yet Beautiful Rainbow Rose"></div>
+          <div a href="#"></div>
+  </div>
+
+  <p>Will add content after skeleton is figured out</p>
+  

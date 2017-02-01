@@ -1,0 +1,13 @@
+.box {
+  border: 1px solid black;
+  background-color: #f4d1d7;
+  width: 30%;
+  height: 6em;
+  text-align: center;
+  line-height: 2em;
+  margin: 0 .25em .25em 0;
+  float:left;
+}
+@media and (min with 480px) {
+  body {max-aspect-ratio}
+}
